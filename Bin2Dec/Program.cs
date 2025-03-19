@@ -1,6 +1,6 @@
 ﻿using static System.Runtime.InteropServices.JavaScript.JSType;
 
-//Maria Marques, March 2025
+//Maria Marques, March 2025 - V1.2
 
 Console.WriteLine("Input binary value: ");
 string numStr = Console.ReadLine();
